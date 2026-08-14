@@ -139,3 +139,7 @@ environment-variable line in `app.py` (`HF_HOME`) before the model loads.
   correct well for off-axis positions. The scalar method sidesteps this by
   not modeling spatial position at all, which is part of why it's the safer
   default with few points.
+
+## AI use disclaimer
+
+- This tool was developed using Claude Sonnet 5
