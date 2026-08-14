@@ -1,0 +1,13 @@
+gradio>=4.0
+torch>=2.0
+transformers>=4.40
+timm
+opencv-python
+numpy
+scipy
+scikit-learn
+pillow
+matplotlib
+pykrige
+requests
+git+https://github.com/facebookresearch/segment-anything.git
